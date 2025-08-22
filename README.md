@@ -1,4 +1,4 @@
-### Hi there, I'm Kanav 👋
+### Hi there, I'm Kanav
 
 ---
 
