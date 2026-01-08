@@ -1,10 +1,1 @@
-### Hi there, I'm Kanav
-
----
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanavgoyal781&show_icons=true&theme=radical&hide=stars,issues,contribs))](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kanavgoyal781&theme=radical)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanavgoyal781&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+I’m Kanav, an AI Engineer with 3.5+ years of experience building and deploying data science and AI systems across Texas Instruments and JPMorgan Chase. I combine strong CS fundamentals (DSA, clean architecture) with production Python and an engineering mindset: reproducible pipelines, clear data contracts, testing, and reliable deployments. Recently, I built a fault-tolerant AI data ingestion and semantic search pipeline that cleans raw API payloads, generates embeddings, and indexes vectors in Qdrant, exposed via FastAPI endpoints and containerized with Docker. I care a lot about correctness and resiliency, so I use strict validation (Pydantic), idempotent upserts for safe retries, dead letter queues for malformed data, and monitoring with structured logs and dashboards. On the GenAI side, I’ve built stateful LLM applications (multi-step workflows, long-running context) and worked on LLM evaluation and improvement, including QLoRA fine-tuning of a 7B model with systematic comparisons and metric-based analysis. I’m currently seeking full-time roles in Data Science / ML Engineering where I can ship scalable, reliable AI products end to end.
